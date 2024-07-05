@@ -24,6 +24,11 @@ This is a simple AI chat application using Flask and CharacterAI to chat with Ve
 - CharacterAI
 - Asyncio
 
+## Directory Structure
+
+- `template/547`: [Example Image](template/547/example.png)
+- `template/553`: [Example Image](template/553/example.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
