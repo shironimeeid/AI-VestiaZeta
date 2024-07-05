@@ -19,6 +19,8 @@ This is a simple AI chat application using Flask and CharacterAI to chat with Ve
 
 ## Technologies Used
 
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) ![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png) ![CSS](https://www.w3.org/Style/CSS/logos/CC.png) ![Flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)
+
 - Python
 - Flask
 - CharacterAI
