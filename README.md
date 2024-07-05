@@ -26,8 +26,8 @@ This is a simple AI chat application using Flask and CharacterAI to chat with Ve
 
 ## Directory Structure
 
-- `template/547`: [Example Image](template/547/example.png)
-- `template/553`: [Example Image](template/553/example.png)
+- `Gambar1`: ![Example Image](template/547/example.png)
+- `Gambar2`: ![Example Image](template/553/example.png)
 
 ## License
 
